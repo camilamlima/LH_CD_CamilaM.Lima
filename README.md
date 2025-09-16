@@ -7,6 +7,8 @@ Este projeto tem como objetivo prever a nota de filmes no IMDb a partir de dados
 - `Desafio_Indicium.ipynb`: Notebook contendo a análise exploratória de dados, treinamento e avaliação do modelo de previsão.
 - `imdb_model.pkl`: Arquivo contendo o modelo treinado.
 - `Desafio_Indicium.pdf`: Relatório da análise exploratória de dados.
+- `requirements.txt`: Arquivo contendo os requisitos necessários
+- `desafio_indicium_imdb.csv`: CSV utilizado no notebook. 
 
 ## Instalação
 
